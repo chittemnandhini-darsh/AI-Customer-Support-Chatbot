@@ -80,6 +80,21 @@ The application is developed using **Python, Transformers, PyTorch, and Gradio**
 
 
 
+
+
+<img width="927" height="452" alt="Screenshot 2026-09-22 210010" src="https://github.com/user-attachments/assets/dd4be090-8d6d-4ae3-8666-e98fbffd762e" />
+
+
+
+
+
+<img width="920" height="137" alt="Screenshot 2026-09-22 210031" src="https://github.com/user-attachments/assets/d04390ed-cb66-43e6-8b55-470ac67342bb" />
+
+
+
+
+
+
 ## 💬 Example Conversation
 
 ### User
@@ -108,15 +123,6 @@ text
 You can request a refund through the order support
 section. Please provide your order details to continue.
 
-
-
-<img width="927" height="452" alt="Screenshot 2026-09-22 210010" src="https://github.com/user-attachments/assets/dd4be090-8d6d-4ae3-8666-e98fbffd762e" />
-
-
-
-
-
-<img width="920" height="137" alt="Screenshot 2026-09-22 210031" src="https://github.com/user-attachments/assets/d04390ed-cb66-43e6-8b55-470ac67342bb" />
 
 
 
