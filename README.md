@@ -34,14 +34,6 @@ The application is developed using **Python, Transformers, PyTorch, and Gradio**
 * ☁️ Runs in Google Colab
 
 ---
-<img width="927" height="452" alt="Screenshot 2026-09-22 210010" src="https://github.com/user-attachments/assets/49b7d489-e115-4d1a-9e75-ecae6149ac3f" />
-
-<img width="920" height="137" alt="Screenshot 2026-09-22 210031" src="https://github.com/user-attachments/assets/c7e4700e-b5ef-499b-a4af-66a90de4b483" />
-
-
-
-
-
 
 ## 🏗️ System Workflow
 
