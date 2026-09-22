@@ -35,6 +35,19 @@ The application is developed using **Python, Transformers, PyTorch, and Gradio**
 
 ---
 
+<img width="927" height="452" alt="Screenshot 2026-09-22 210010" src="https://github.com/user-attachments/assets/dd4be090-8d6d-4ae3-8666-e98fbffd762e" />
+
+
+
+
+
+<img width="920" height="137" alt="Screenshot 2026-09-22 210031" src="https://github.com/user-attachments/assets/d04390ed-cb66-43e6-8b55-470ac67342bb" />
+
+
+
+
+
+
 ## 🏗️ System Workflow
 
 ```text
@@ -77,21 +90,6 @@ The application is developed using **Python, Transformers, PyTorch, and Gradio**
 | DistilGPT2   | Text generation model       |
 | Gradio       | Web-based chatbot interface |
 | Google Colab | Development and execution   |
-
-
-
-
-
-<img width="927" height="452" alt="Screenshot 2026-09-22 210010" src="https://github.com/user-attachments/assets/dd4be090-8d6d-4ae3-8666-e98fbffd762e" />
-
-
-
-
-
-<img width="920" height="137" alt="Screenshot 2026-09-22 210031" src="https://github.com/user-attachments/assets/d04390ed-cb66-43e6-8b55-470ac67342bb" />
-
-
-
 
 
 
